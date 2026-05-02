@@ -96,6 +96,3 @@ Developed as part of internship project submission.
 📌 Note
 This project is created for learning and internship submission purposes, focusing on frontend data visualization and dashboard design.
 
-⭐ Show Support
-If you like this project, consider giving it a ⭐ on GitHub!
----If you want, I can also:✅ Make GitHub repo setup steps  ✅ Write LinkedIn post for this project  ✅ Or create second project README too  Just tell 👍
